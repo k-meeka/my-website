@@ -4,6 +4,10 @@
     text-align: left;
     white-space: pre-line;
     font-family: Georgia, serif;
-    line-height: 1.2;
+    line-height: 1.0;
     font-size: 1.1rem;
+}
+
+.poem p {
+    margin: 0;
 }
