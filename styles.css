@@ -1,0 +1,9 @@
+.poem {
+    max-width: 650px;
+    margin: 4rem auto;
+    text-align: left;
+    white-space: pre-line;
+    font-family: Georgia, serif;
+    line-height: 1.2;
+    font-size: 1.1rem;
+}
