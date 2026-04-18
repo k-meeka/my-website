@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-wordcount',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -404,16 +404,23 @@ window.Quarto = {
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 
+<th>
+wordcount
+</th>
+
 </tr>
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="c2Nob29s" data-listing-date-sort="1776409200000" data-listing-file-modified-sort="1776494336794" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="393" data-listing-title-sort="First Year Microbiology" data-listing-filename-sort="firstyear.qmd">
+<tr data-index="0" data-categories="c2Nob29s" data-listing-date-sort="1776409200000" data-listing-file-modified-sort="1776494885243" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="393" data-listing-title-sort="First-year in Second/Third-year Class" data-listing-filename-sort="firstyear.qmd">
 <td>
 <span class="listing-date">Apr 17, 2026</span>
 </td>
 <td>
-<a href="../thoughts/firstyear.html" class="title listing-title">First Year Microbiology</a>
+<a href="../thoughts/firstyear.html" class="title listing-title">First-year in Second/Third-year Class</a>
+</td>
+<td>
+<span class="listing-wordcount">399</span>
 </td>
 
 </tr>
