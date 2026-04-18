@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "poem/index.html",
+    "href": "poem/index.html",
+    "title": "Poem",
+    "section": "",
+    "text": "Lemongrass Honey\n\n\n\n\n\n\n\n\nDec 12, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Mika Kohno",
@@ -9,8 +16,15 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Poems",
     "section": "",
-    "text": "About this site"
+    "text": "Pieces of writing from when I was inspired."
+  },
+  {
+    "objectID": "poem/first-post.html",
+    "href": "poem/first-post.html",
+    "title": "Lemongrass Honey",
+    "section": "",
+    "text": "I want to be known for who I am, And not boxed into who I could be. I don’t want to feel like a program; I want to be completely set free.\nI want to be fully understood, For what I think and what I do. I want to be reassured, That they understand my point of view.\nI want to be deeply cherished Like lemongrass and honey Will you say this before I am perished? Will I ever be somebody?\nTo be loved is to be known; And to be known is to be loved. Can you say that without hesitation? Or do you have to be shoved?\nI want to be lemongrass honey: Sour with a kick of sweetness, Head empty, sometimes funny, Only then can I feel complete."
   }
 ]
