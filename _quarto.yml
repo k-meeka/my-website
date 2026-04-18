@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Meeka"
+  site-url: https://k-meeka.github.io/my-website
   navbar:
     left:
       - href: index.qmd
