@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/thoughts/index.html",
+    "items": [
+      "/thoughts/firstyear.html"
+    ]
+  },
+  {
+    "listing": "/learning/index.html",
+    "items": []
+  },
+  {
+    "listing": "/poem/index.html",
+    "items": [
+      "/poem/girlnough.html",
+      "/poem/lemongrasshoney.html"
+    ]
+  }
+]

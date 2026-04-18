@@ -4,5 +4,29 @@
   },
   "index.qmd": {
     "index.html": "d58a2584"
+  },
+  "poem/first-post.qmd": {
+    "first-post.html": "1623f5f4"
+  },
+  "poem/index.qmd": {
+    "index.html": "c7dc9aa2"
+  },
+  "poem/lemongrasshoney.qmd": {
+    "lemongrasshoney.html": "3265c33b"
+  },
+  "poem/girlnough.qmd": {
+    "girlnough.html": "056ca78e"
+  },
+  "thoughts/firstyear.qmd": {
+    "firstyear.html": "b0bd0079"
+  },
+  "thoughts/index2.qmd": {
+    "index2.html": "becfb08e"
+  },
+  "thoughts/index.qmd": {
+    "index.html": "2f25a85e"
+  },
+  "learning/index.qmd": {
+    "index.html": "511254da"
   }
 }

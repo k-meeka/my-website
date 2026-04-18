@@ -1,7 +1,17 @@
 ---
-title: "Terry website"
+title: "Meeka"
 ---
 
-This is a Quarto website.
+Hello! 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I write poems and occasionally post thoughts or small observations that don't really fit anywhere.
+
+This is a space for those fragments, ranging from writing, ideas, and whatever else inspires me over time.
+Or in other words: a place where poetry, thought, and learning coexist without hierarchy.
+
+<figure>
+  <img src="images/snoopy.jpg" width="800">
+  <figcaption>Snoopy from *Peanuts* by Charles M. Schulz</figcaption>
+</figure>
+
+Created April 17, 2026.

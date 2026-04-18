@@ -1,0 +1,11 @@
+---
+title: "Learnings"
+listing:
+    contents: .
+    sort: date desc
+    filter-ui: true
+    fields: [date, title, wordcount]
+    type: table
+---
+
+Anything I learned: from pathogens to racoons.

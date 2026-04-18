@@ -1,0 +1,11 @@
+---
+title: "Poem"
+listing:
+    contents: .
+    sort: date desc
+    filter-ui: true
+    fields: [date, title]
+    type: table
+---
+
+From identity to conflict. My observations.
