@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/thoughts/index.html",
+    "items": [
+      "/thoughts/firstyear.html"
+    ]
+  },
+  {
     "listing": "/poem/index.html",
     "items": [
       "/poem/girlnough.html",

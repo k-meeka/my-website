@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://mikakohno.github.io/my-website/thoughts/index.html</loc>
+    <lastmod>2026-04-18T05:49:46.162Z</lastmod>
+  </url>
+  <url>
     <loc>https://mikakohno.github.io/my-website/poem/lemongrasshoney.html</loc>
-    <lastmod>2026-04-18T01:32:38.449Z</lastmod>
+    <lastmod>2026-04-18T05:35:18.404Z</lastmod>
   </url>
   <url>
     <loc>https://mikakohno.github.io/my-website/poem/girlnough.html</loc>
-    <lastmod>2026-04-18T03:22:44.187Z</lastmod>
+    <lastmod>2026-04-18T05:35:20.654Z</lastmod>
   </url>
   <url>
     <loc>https://mikakohno.github.io/my-website/about.html</loc>
-    <lastmod>2026-04-18T00:57:25.920Z</lastmod>
+    <lastmod>2026-04-18T05:35:39.136Z</lastmod>
   </url>
   <url>
     <loc>https://mikakohno.github.io/my-website/index.html</loc>
-    <lastmod>2026-04-18T05:11:34.129Z</lastmod>
+    <lastmod>2026-04-18T05:34:53.389Z</lastmod>
   </url>
   <url>
     <loc>https://mikakohno.github.io/my-website/poem/index.html</loc>
-    <lastmod>2026-04-18T01:18:31.243Z</lastmod>
+    <lastmod>2026-04-18T05:39:28.951Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mikakohno.github.io/my-website/thoughts/firstyear.html</loc>
+    <lastmod>2026-04-18T06:38:56.794Z</lastmod>
   </url>
 </urlset>
