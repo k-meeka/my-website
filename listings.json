@@ -2,12 +2,9 @@
   {
     "listing": "/thoughts/index.html",
     "items": [
+      "/thoughts/aboutblog.html",
       "/thoughts/firstyear.html"
     ]
-  },
-  {
-    "listing": "/learning/index.html",
-    "items": []
   },
   {
     "listing": "/poem/index.html",
@@ -15,5 +12,9 @@
       "/poem/girlnough.html",
       "/poem/lemongrasshoney.html"
     ]
+  },
+  {
+    "listing": "/learning/index.html",
+    "items": []
   }
 ]
