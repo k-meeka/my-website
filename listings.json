@@ -1,10 +1,7 @@
 [
   {
-    "listing": "/thoughts/index.html",
-    "items": [
-      "/thoughts/aboutblog.html",
-      "/thoughts/firstyear.html"
-    ]
+    "listing": "/learning/index.html",
+    "items": []
   },
   {
     "listing": "/poem/index.html",
@@ -14,7 +11,11 @@
     ]
   },
   {
-    "listing": "/learning/index.html",
-    "items": []
+    "listing": "/thoughts/index.html",
+    "items": [
+      "/thoughts/likeable.html",
+      "/thoughts/aboutblog.html",
+      "/thoughts/firstyear.html"
+    ]
   }
 ]
